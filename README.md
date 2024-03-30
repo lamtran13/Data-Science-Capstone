@@ -1,4 +1,4 @@
-# Applied Data Science Capstone - IBM Data Science Coursea
+# Applied Data Science Capstone - IBM Data Science Coursera
 In this capstone, we aim to predict the success of Falcon 9 first stage landings. SpaceX's unique ability to reuse the first stage significantly reduces launch costs compared to other providers, making it a crucial factor in determining the overall cost of a launch. By accurately predicting the first stage's landing outcome, we can estimate the cost of a launch, which can be valuable information for companies considering bidding against SpaceX for rocket launches. Throughout this module, we will gain necessary tools and knowledge to tackle this problem effectively.
 
 1. [Complete the Data Collection API Lab](https://github.com/lamtran13/Data-Science-Capstone/blob/bd94decccba8b40ceccf8285dae721c03e481609/jupyter-labs-spacex-data-collection-api.ipynb)
